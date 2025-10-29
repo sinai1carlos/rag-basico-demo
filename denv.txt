@@ -1,0 +1,3 @@
+py -m venv denv
+
+.\denv\Scripts\activate
